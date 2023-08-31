@@ -1,0 +1,6 @@
+Data_source Abs_365 Abs_offset_365
+CsPbBr_dilute_00_mean 1.13000e+00 1.14410e+00
+CsPbBr_dilute_02_mean 5.70000e-01 6.20000e-01
+CsPbBr_dilute_04_mean 2.70000e-01 3.00000e-01
+CsPbBr_dilute_08_mean 1.30000e-01 1.50000e-01
+CsPbBr_dilute_16_mean 8.00000e-02 8.89524e-02

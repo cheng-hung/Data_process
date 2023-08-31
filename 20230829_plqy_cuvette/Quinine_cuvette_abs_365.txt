@@ -1,0 +1,7 @@
+Data_source Abs_365 Abs_offset_365
+1E-4_Abs-BX_out-SR_mean 2.90000e-01 2.99260e-01
+2E-4_Abs-BX_out-SR_mean 5.80000e-01 5.78205e-01
+1E-4_Abs-SR_out-BX_mean 3.00000e-01 3.00000e-01
+2E-4_Abs-SR_out-BX_mean 5.90000e-01 5.86879e-01
+1E-4_Abs-SR_out-SR_mean 3.00000e-01 3.00000e-01
+2E-4_Abs-SR_out-SR_mean 5.90000e-01 5.84257e-01

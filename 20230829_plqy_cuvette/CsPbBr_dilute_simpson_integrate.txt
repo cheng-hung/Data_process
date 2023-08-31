@@ -1,0 +1,6 @@
+Data_source Simpson_integrate
+CsPbBr_dilute_00_mean 5.08488e+03
+CsPbBr_dilute_02_mean 1.26081e+04
+CsPbBr_dilute_04_mean 1.72573e+04
+CsPbBr_dilute_08_mean 1.11257e+04
+CsPbBr_dilute_16_mean 3.58183e+03
