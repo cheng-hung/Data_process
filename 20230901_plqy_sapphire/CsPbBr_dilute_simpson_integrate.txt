@@ -1,0 +1,9 @@
+Data_source Simpson_integrate
+CsPbBr_dilute_00_400ms_mean 2.68871e+05
+CsPbBr_dilute_00_4000ms_mean 2.52175e+06
+CsPbBr_dilute_02_400ms_mean 1.70841e+05
+CsPbBr_dilute_02_4000ms_mean 1.93883e+06
+CsPbBr_dilute_04_400ms_mean 3.00430e+04
+CsPbBr_dilute_04_4000ms_mean 3.13623e+05
+CsPbBr_dilute_08_400ms_mean 1.51305e+04
+CsPbBr_dilute_08_4000ms_mean 1.50904e+05

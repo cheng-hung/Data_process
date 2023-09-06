@@ -1,0 +1,5 @@
+Data_source Abs_365 Abs_offset_365
+CsPbBr_dilute_00_400ms_mean 9.37778e-01 7.98830e-01
+CsPbBr_dilute_02_400ms_mean 6.08889e-01 5.56916e-01
+CsPbBr_dilute_04_400ms_mean 3.31111e-01 3.11455e-01
+CsPbBr_dilute_08_400ms_mean 2.04444e-01 1.95792e-01
