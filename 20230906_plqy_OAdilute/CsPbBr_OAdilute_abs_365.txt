@@ -1,0 +1,5 @@
+Data_source Abs_365 Abs_offset_365
+Tol_00_20ms_mean 2.20000e+00 2.18303e+00
+Tol_08_20ms_mean 5.60000e-01 5.60000e-01
+Tol_16_20ms_mean 2.80000e-01 2.90000e-01
+Tol_24_20ms_mean 1.90000e-01 1.99983e-01

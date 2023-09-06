@@ -1,0 +1,5 @@
+Data_source Simpson_integrate
+Tol_00_20ms_mean 1.99790e+03
+Tol_08_20ms_mean 5.91790e+04
+Tol_16_20ms_mean 6.62793e+04
+Tol_24_20ms_mean 8.26420e+04

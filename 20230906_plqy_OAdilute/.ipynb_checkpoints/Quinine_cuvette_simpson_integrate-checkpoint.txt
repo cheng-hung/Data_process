@@ -1,0 +1,7 @@
+Data_source Simpson_integrate
+1E-4_Abs-BX_out-SR_mean 6.33448e+04
+2E-4_Abs-BX_out-SR_mean 5.31601e+04
+1E-4_Abs-SR_out-BX_mean 2.38077e+04
+2E-4_Abs-SR_out-BX_mean 1.98462e+04
+1E-4_Abs-SR_out-SR_mean 5.31987e+04
+2E-4_Abs-SR_out-SR_mean 4.56391e+04

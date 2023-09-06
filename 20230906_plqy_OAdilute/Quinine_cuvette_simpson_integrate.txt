@@ -1,0 +1,2 @@
+Data_source Simpson_integrate
+1E-4M_20ms_mean 1.05001e+05
