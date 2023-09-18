@@ -1,0 +1,6 @@
+Data_source Abs_365 Abs_offset_365
+Tol_000_mean 9.91111e-01 9.88797e-01
+Tol_050_mean 7.91111e-01 8.01745e-01
+Tol_100_mean 6.44444e-01 6.54548e-01
+Tol_200_mean 2.63333e-01 2.76905e-01
+Tol_600_mean 1.20000e-01 1.21871e-01
