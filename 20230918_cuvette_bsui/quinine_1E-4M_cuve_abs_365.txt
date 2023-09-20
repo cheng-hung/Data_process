@@ -1,0 +1,2 @@
+Data_source Abs_365 Abs_offset_365
+quinine_1E-4M_cuve_mean 3.70706e-01 3.69756e-01

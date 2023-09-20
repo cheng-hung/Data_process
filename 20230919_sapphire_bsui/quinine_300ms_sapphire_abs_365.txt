@@ -1,0 +1,3 @@
+Data_source Abs_365 Abs_offset_365
+quinine_2E-4M_mean -1.62079e-01 9.79994e-02
+quinine_5E-4M_mean 2.31965e-01 3.60459e-01
