@@ -1,0 +1,2 @@
+Data_source Simpson_integrate
+Quinine_mean 5.84460e+04

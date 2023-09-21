@@ -1,0 +1,2 @@
+Data_source Abs_365 Abs_offset_365
+Quinine_mean 9.02466e-02 1.24060e-01
