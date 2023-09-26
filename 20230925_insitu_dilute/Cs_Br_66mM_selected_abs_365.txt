@@ -1,0 +1,8 @@
+Data_source Abs_365 Abs_offset_365
+Cs_Br_66mM_dilute_01p0_mean 2.23704e+00 2.22036e+00
+Cs_Br_66mM_dilute_01p5_mean 2.11264e+00 2.07727e+00
+Cs_Br_66mM_dilute_02p0_mean 1.30845e+00 1.40230e+00
+Cs_Br_66mM_dilute_02p5_mean 5.23372e-01 6.23421e-01
+Cs_Br_66mM_dilute_03p0_mean 1.37094e-01 2.24428e-01
+Cs_Br_66mM_dilute_03p5_mean 6.27332e-02 1.48626e-01
+Cs_Br_66mM_dilute_04_mean 8.74694e-02 1.75716e-01
