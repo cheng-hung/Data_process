@@ -1,0 +1,7 @@
+Data_source Simpson_integrate
+Cs_Br_66mM_dilute_01_mean 8.67373e+04
+Cs_Br_66mM_dilute_02_mean 2.67140e+05
+Cs_Br_66mM_dilute_04_mean 4.95087e+05
+Cs_Br_66mM_dilute_06_mean 2.80285e+05
+Cs_Br_66mM_dilute_08_mean 7.69647e+05
+Cs_Br_66mM_dilute_10_mean 4.00477e+05
