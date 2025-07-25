@@ -76,10 +76,10 @@ class auto_bkg():
 
         if result.success:
             print('Found the bkg scale to minimize the integral')
-            self.bkg_opt = result.x
+            self.bkg_opt = result.x[0]
 
         else:
-            print('Unable to Found the bkg scale')
+            print('Unable to find the bkg scale by minimizing integral')
 
         return result
 
@@ -92,12 +92,11 @@ class auto_bkg():
         
         try:
             ax[0].plot(self.bkg_df.iloc[:,0], self.bkg_df.iloc[:,1]*self.bkg_opt, 'g.', label='scaled_bkg', )
+            ax[1].plot(self.data_df.iloc[:,0], self.data_sub(self.bkg_opt), label=f'data_sub, scale={self.bkg_opt: .3f}')
         
         except TypeError:
             ax[0].plot(self.bkg_df.iloc[:,0], self.bkg_df.iloc[:,1]*self.guess_01(), 'r.', label='scaled_bkg', )
-        
-        
-        ax[1].plot(self.data_df.iloc[:,0], self.data_sub(self.bkg_opt), label='data_sub')
+            ax[1].plot(self.data_df.iloc[:,0], self.data_sub(self.guess_01()), label=f'data_sub, scale={self.guess_01(): .3f}')
 
         ax[0].legend()
         ax[1].legend()
